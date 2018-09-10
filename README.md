@@ -4,5 +4,3 @@
 ## 版权声明
 - **版权归作者 [@iceyee](https://github.com/iceyee) 所有**
 - **转载请注明出处**
-
-![farmer](https://github.com/iceyee/blog/blob/master/farmer-icon.png)
